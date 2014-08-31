@@ -31,17 +31,20 @@ namespace FunctionPractice
                 Console.WriteLine("The number " + i + "got trippled");
                 Console.WriteLine(Multiply(i, 3));
             }
+
+            // int i = 45; 
+            // why not we do this as for loop's i's scope is over
         }
 
         //functions are standalone
         static void HelloWorld()
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("Hellow World!");
         }
 
         static void Greet(string name)
         {
-            Console.WriteLine("Hello " + name);
+            Console.WriteLine("hello " + name);
         }
 
         //double a number

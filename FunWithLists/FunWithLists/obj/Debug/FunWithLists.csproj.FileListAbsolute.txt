@@ -1,0 +1,6 @@
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\FunWithLists\FunWithLists\bin\Debug\FunWithLists.exe.config
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\FunWithLists\FunWithLists\bin\Debug\FunWithLists.exe
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\FunWithLists\FunWithLists\bin\Debug\FunWithLists.pdb
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\FunWithLists\FunWithLists\obj\Debug\FunWithLists.csprojResolveAssemblyReference.cache
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\FunWithLists\FunWithLists\obj\Debug\FunWithLists.exe
+C:\Users\Technologist\Documents\GitHub\Week1Solutions\FunWithLists\FunWithLists\obj\Debug\FunWithLists.pdb
